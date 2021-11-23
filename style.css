@@ -1,4 +1,3 @@
-h1 {
+h1 ::after {
   color: aqua;
 }
-\n
